@@ -1,1 +1,2 @@
-# python_kadai
+(問題1)CHAPTER05/Q5_1_2.py
+(問題2)CHAPTER05/Q5_1_3.py
