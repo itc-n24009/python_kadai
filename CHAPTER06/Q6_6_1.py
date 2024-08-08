@@ -29,3 +29,11 @@ func_list = [event1,event2,event3,event4,event5]
 for f in func_list:
     f()
     print("After {}: {}".format(f.__name__, x))
+
+
+In event1: Happy  -> After event1: Happy
+In event2: Sad    -> After event2: Happy
+In event3: Tired  -> After event3: Tired
+In event4: Excite -> After event4: Tired
+In event5: Scare  -> After event5: Tired
+
